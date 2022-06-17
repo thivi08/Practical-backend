@@ -15,10 +15,6 @@ app.get("/api/carousel", function (request, response) {
     response.send({ slides })
 })
 
-// const api = require('./api')
-
-// app.use('/api', api)
-
 app.listen(3600, function () {
     console.log("Started application on port %d", 3600)
 });
