@@ -1,0 +1,54 @@
+{
+    "slides": [
+        {
+            "image": "https://jpcamara.com/wp-content/uploads/2015/02/carousel.jpg",
+            "title": "Strong mask01",
+            "subTitle": "Secondary text01"
+        },
+        {
+            "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MZvaMEOV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qll2w5atklv13ljmqope.png",
+            "title": "Strong mask02",
+            "subTitle": "Secondary text02"
+        },
+        {
+            "image": "https://soliloquywp.com/wp-content/uploads/2019/03/nb_wcs_cover.jpg",
+            "title": "Strong mask01",
+            "subTitle": "Secondary text01"
+        },
+        {
+            "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MZvaMEOV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qll2w5atklv13ljmqope.png",
+            "title": "Strong mask02",
+            "subTitle": "Secondary text02"
+        },
+        {
+            "image": "https://jpcamara.com/wp-content/uploads/2015/02/carousel.jpg",
+            "title": "Strong mask01",
+            "subTitle": "Secondary text01"
+        },
+        {
+            "image": "https://soliloquywp.com/wp-content/uploads/2019/03/nb_wcs_cover.jpg",
+            "title": "Strong mask02",
+            "subTitle": "Secondary text02"
+        },
+        {
+            "image": "https://jpcamara.com/wp-content/uploads/2015/02/carousel.jpg",
+            "title": "Strong mask01",
+            "subTitle": "Secondary text01"
+        },
+        {
+            "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MZvaMEOV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qll2w5atklv13ljmqope.png",
+            "title": "Strong mask02",
+            "subTitle": "Secondary text02"
+        },
+        {
+            "image": "https://jpcamara.com/wp-content/uploads/2015/02/carousel.jpg",
+            "title": "Strong mask01",
+            "subTitle": "Secondary text01"
+        },
+        {
+            "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MZvaMEOV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qll2w5atklv13ljmqope.png",
+            "title": "Strong mask02",
+            "subTitle": "Secondary text02"
+        }
+    ]
+}  
